@@ -35,7 +35,7 @@
     <style name="AppTheme.ActionBar.Preference" parent="AppTheme">
         <item name="colorPrimary">#FFD740</item>
         <item name="colorPrimaryDark">#FFC400</item>
-        <item name="colorAccent">#B2DFDB</item>
+        <item name="colorAccent">#80CBC4</item>
         <item name="actionBarSize">70dp</item>
     </style>
 
